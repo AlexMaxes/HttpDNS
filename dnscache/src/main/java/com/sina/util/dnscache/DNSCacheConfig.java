@@ -49,6 +49,7 @@ public class DNSCacheConfig {
     /**
      * 配置文件更新地址
      */
+    //TODO:需要修改的配置文件
     private static String ConfigText_API = "http://202.108.7.153/config";
     
     public static ArrayList<String> domainSupportList = new ArrayList<String>();

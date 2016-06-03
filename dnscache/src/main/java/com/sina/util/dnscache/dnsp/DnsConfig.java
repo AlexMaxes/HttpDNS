@@ -29,7 +29,7 @@ public class DnsConfig {
 	public static boolean enableDnsPod = true ; 
 	
 	/**
-	 * DNSPOD http dns 开端
+	 * udp dns 开端
 	 */
 	public static boolean enableUdpDns = true ; 
 	
